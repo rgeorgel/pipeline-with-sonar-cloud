@@ -1,4 +1,4 @@
-const calculator = require('./calculator');
+const calculator = require('../src/calculator');
 
 test('Sum 10 + 10 to be equal to 20', () => {
   const expectedValue = 20;
